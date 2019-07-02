@@ -1,0 +1,6 @@
+2019-07-02 14:46:58,787 INFO (StartupInfoLogger.java:57)- Started SpringcloudAppSystemApplication in 56.819 seconds (JVM running for 58.311)
+2019-07-02 14:48:05,345 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-07-02 14:49:42,491 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-07-02 14:50:19,905 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-07-02 14:50:20,108 INFO (StartupInfoLogger.java:57)- Started SpringcloudAppScheduleApplication in 5.655 seconds (JVM running for 53.114)
+2019-07-02 14:50:21,722 INFO (StartupInfoLogger.java:57)- Started SpringcloudAppScheduleApplication in 52.725 seconds (JVM running for 54.727)
